@@ -1,0 +1,1 @@
+Contains rendered images of the project in a scene, along with the final fbx file for general use in 3d projects. Also contains the .blend file to allow easy customisation of model and surrounding scene.
